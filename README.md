@@ -128,6 +128,7 @@ graph TD
     G -->|Financial Recommendations| H
     C -->|Multilingual Outputs| H
 
+```
 
 ---
 
