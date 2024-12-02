@@ -127,7 +127,7 @@ graph TD
     F -->|Tracking Updates| H
     G -->|Financial Recommendations| H
     C -->|Multilingual Outputs| H
-```
+
 
 ---
 
