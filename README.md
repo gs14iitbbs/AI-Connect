@@ -2,7 +2,7 @@
 # Agro-Connect Process Flowchart
 
 ## Overview
-This flowchart outlines the key steps in the Agro-Connect proposal, from identifying challenges to achieving measurable impact. 
+This flowchart outlines the key steps in the Agro-Connect proposal, from identifying challenges to achieving measurable impact.
 
 ## Process Flowchart
 
@@ -40,7 +40,12 @@ Phase 4: Scaling & Optimization
 Impact and Monitoring
     - 1M Users in 2 Years
     - Income +20-30%
-    - Feedback Loop for # Agro-Connect: Product Design and System Schematic
+    - Feedback Loop for Updates
+```
+
+---
+
+# Agro-Connect: Product Design and System Schematic
 
 ## Overview
 Agro-Connect leverages advanced multilingual AI and modern technologies to provide rural communities with tools for agriculture, logistics, and financial management. Below is the detailed product design, core functionalities, and system architecture schematic.
@@ -135,7 +140,3 @@ graph TD
    - Tutorials on using digital tools in farming, logistics, and finance.
 
 ---
-
-
-
-
